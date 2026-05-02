@@ -21,6 +21,12 @@ def get_productos():
             "nombre": "Mini Sandwich",
             "precio": 20,
             "imagen": "/static/img/mini_sandwich.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Alfajor",
+            "precio": 10,
+            "imagen": "/static/img/alfajor.jpg"
         }
     ]
 
